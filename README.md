@@ -1,4 +1,4 @@
-<!-- Ziko - AI Developer | Dark Themed GitHub Profile -->
+<!-- Ryad AI - Dark Themed GitHub Profile -->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/eng-ryad-alshwish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/RyadAI)
 
 </div>
 
@@ -43,7 +43,7 @@ Building intelligent systems with precision and creativity.
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyadAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
 
 <!-- GitHub Stats -->
-<a href="https://github.com/ZikoAI">
+<a href="https://github.com/RyadAI">
 <img src="https://github-readme-stats.vercel.app/api?username=RyadAI&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyadAI&layout=compact&theme=tokyonight&hide_border=true" width="45%">
 </a>
