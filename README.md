@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />  
 
 # Ryad AI — AI Developer & Creative Technologist
 > Building intelligent systems with precision and creativity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/eng-ryad-alshwish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/RyadAI)
 
 </div>
 
@@ -37,19 +37,19 @@ Building intelligent systems with precision and creativity.
 <div align="center">
 
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=RyadAI&style=for-the-badge&color=blueviolet&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=RyadAI&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 
 <!-- Hits -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyadAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyadAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
 
 <!-- GitHub Stats -->
 <a href="https://github.com/RyadAI">
-<img src="https://github-readme-stats.vercel.app/api?username=RyadAI&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyadAI&layout=compact&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyadAI&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyadAI&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </a>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyadAI&theme=tokyonight&hide_border=true" width="70%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyadAI&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
