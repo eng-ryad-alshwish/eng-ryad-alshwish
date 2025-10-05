@@ -6,7 +6,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
 
-# 🧠 ZIKO — AI Developer & Creative Technologist  
+#  Ryad — AI Developer & Creative Technologist  
 > *Building intelligent systems with precision and creativity.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -22,15 +22,29 @@
 
 ## 🧩 About Me
 
-> "Turning complex data into intelligent systems — one model at a time."
+> *"Transforming ideas into intelligent realities — one model at a time."*
 
-- ⚙️ **AI Engineer** focused on deep learning, data mining & computer vision  
-- 💡 Experienced with **Python, TensorFlow, PyTorch, and Streamlit**  
-- 🧑‍🎨 Blending **design + intelligence** to create meaningful digital experiences  
-- 🧭 Exploring **Generative AI** and creative machine learning  
-- 🧘 Fun Fact: I debug faster when the playlist is fire 🎧  
+💼 **AI Engineer & Creative Coder**  
+🔬 Passionate about building **deep learning**, **data mining**, and **computer vision** systems.  
+🧠 Skilled in **Python**, **TensorFlow**, **PyTorch**, **Streamlit**, **PyQt6**, **Jupyter Notebook**, **HTML**, **CSS**, **Git**, **face_recognition**, and **scikit-learn** — turning data into insight and automation. 
+🎨 I love merging **design + intelligence** to craft meaningful digital experiences that inspire creativity.  
+🚀 Currently exploring **Generative AI**, **LLMs**, and **creative machine learning applications**.  
+🎧 **Fun Fact:** I debug faster when the music’s right — data meets rhythm.
 
 ---
+
+<div align="center">
+📊 GitHub Stats  
+<a href="https://github.com/ZikoAI"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ZikoAI&show_icons=true&theme=tokyonight" width="45%"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikoAI&layout=compact&theme=tokyonight" width="45%"> 
+</a>
+</div>
+
+<div align="center">
+✨ “Turning Ideas into Intelligent Experiences” ✨  
+📬 Connect with me on [Telegram](https://t.me/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+</div>
 
 ## ⚙️ Tech Stack
 
