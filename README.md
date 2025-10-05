@@ -2,12 +2,14 @@
 
 <div align="center">
 
+<!-- Animated GIFs -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />  
 
 # Ryad AI — AI Developer & Creative Technologist
 > Building intelligent systems with precision and creativity.
 
+<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/eng-ryad-alshwish)
@@ -16,23 +18,19 @@
 
 ---
 
-## About Me
+##  About Me
 
 Building intelligent systems with precision and creativity.
 
 - **Professional Title:** AI Engineer and Creative Coder  
-- **Specializations:**  
-  - Deep Learning  
-  - Data Mining  
-  - Computer Vision  
-- **Technical Skills:**  
-  Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, scikit-learn  
+- **Specializations:** Deep Learning, Data Mining, Computer Vision  
+- **Technical Skills:** Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, scikit-learn  
 - **Approach:** Blending design and intelligence to create meaningful digital experiences  
 - **Current Focus:** Generative AI, Large Language Models (LLMs), and creative machine learning applications  
 
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -55,7 +53,7 @@ Building intelligent systems with precision and creativity.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -67,7 +65,7 @@ Building intelligent systems with precision and creativity.
 
 ---
 
-## Current Focus
+##  Current Focus
 
 ```python
 class RyadAI:
