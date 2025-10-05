@@ -12,8 +12,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/ZikoAI)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZikoAI&style=for-the-badge&color=blueviolet&label=VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eng-ryad-alshwish&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&title=VISITORS&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=ZikoAI&style=for-the-badge&color=blueviolet&label=Profile+Views)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZikoAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&title=Hits&edge_flat=false)
 
 </div>
 
@@ -24,19 +24,36 @@
 Building intelligent systems with precision and creativity.
 
 - **Professional Title:** AI Engineer and Creative Coder  
-- **Specializations:** Deep Learning, Data Mining, Computer Vision  
-- **Technical Skills:** Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, scikit-learn  
+- **Specializations:**  
+  - Deep Learning  
+  - Data Mining  
+  - Computer Vision  
+- **Technical Skills:**  
+  Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, scikit-learn  
 - **Approach:** Blending design and intelligence to create meaningful digital experiences  
 - **Current Focus:** Generative AI, Large Language Models (LLMs), and creative machine learning applications  
 
+---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=ZikoAI&style=for-the-badge&color=blueviolet&label=Profile+Views)
+
+<!-- Hits -->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZikoAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+
+<!-- GitHub Stats -->
 <a href="https://github.com/ZikoAI">
 <img src="https://github-readme-stats.vercel.app/api?username=ZikoAI&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikoAI&layout=compact&theme=tokyonight&hide_border=true" width="45%">
 </a>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZikoAI&theme=tokyonight&hide_border=true" width="70%">
+
 </div>
 
 ---
