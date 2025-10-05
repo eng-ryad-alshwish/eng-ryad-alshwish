@@ -34,17 +34,33 @@ Building intelligent systems with precision and creativity.
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=eng-ryad-alshwish&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+## 📊 GitHub Analytics
 
-<!-- Hits -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feng-ryad-alshwish&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
+<div align="center">
+
+<!-- Profile Views & Hits -->
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=eng-ryad-alshwish&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+    </td>
+    <td>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feng-ryad-alshwish&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
-<a href="https://github.com/eng-ryad-alshwish">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-ryad-alshwish&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ryad-alshwish&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eng-ryad-alshwish&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ryad-alshwish&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-ryad-alshwish&theme=tokyonight&hide_border=true" width="70%" />
