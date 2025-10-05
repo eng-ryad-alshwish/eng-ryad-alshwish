@@ -23,12 +23,11 @@
 
 Building intelligent systems with precision and creativity.
 
-Professional AI Engineer and Creative Coder.  
-Specialized in deep learning, data mining, and computer vision systems.  
-Proficient in Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, and scikit-learn — turning data into insight and automation.  
-Focused on blending design and intelligence to create meaningful digital experiences.  
-Currently exploring Generative AI, LLMs, and creative machine learning applications.
-
+- **Professional Title:** AI Engineer and Creative Coder  
+- **Specializations:** Deep Learning, Data Mining, Computer Vision  
+- **Technical Skills:** Python, TensorFlow, PyTorch, Streamlit, PyQt6, Jupyter Notebook, HTML, CSS, Git, face_recognition, scikit-learn  
+- **Approach:** Blending design and intelligence to create meaningful digital experiences  
+- **Current Focus:** Generative AI, Large Language Models (LLMs), and creative machine learning applications  
 ---
 
 ## GitHub Stats
