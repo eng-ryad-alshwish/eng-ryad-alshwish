@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/helشlocoders_rounded.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBmOWlhaTQ2d2lveXR1dW81eGZvaW91d2trNmE1emRlN2U4dnY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif)?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBmOWlhaTQ2d2lveXR1dW81eGZvaW91d2trNmE1emRlN2U4dnY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif)?raw=true" alt="Workspace" width="40%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
 
 # ZikoAI — AI Developer & Creative Technologist
 > Building intelligent systems with precision and creativity.
@@ -13,9 +13,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/ZikoAI)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZikoAI&style=for-the-badge&color=blueviolet&label=Profile+Views)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZikoAI&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&title=Hits&edge_flat=false)
 
 </div>
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBmOWlhaTQ2d2lveXR1dW81eGZvaW91d2trNmE1emRlN2U4dnY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif
+
 ---
 
 ## About Me
